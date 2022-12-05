@@ -1,3 +1,5 @@
+SHORT CIRCUITS
+
 - Hi, this is the Short Circuits Github
 - We sell kits that teach electronics and coding
 - Our kits are Arduino compatible, so feel free to use our code with any microcontroller that uses the Arduino IDE
